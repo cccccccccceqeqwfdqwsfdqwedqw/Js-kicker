@@ -6,10 +6,7 @@ Dangerous ⚠ Use it at your own risk !
 How to run ?
 ------
 - `git clone https://github.com/yinmo-public/Js-kicker`
-- `cd Js-kicker && npm install`
-- `cd src`
-- `npm start`
-- `type kickall -> kick all member`
+
 
 ----
 **NOTE & Features** 
